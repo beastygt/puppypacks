@@ -1,0 +1,6 @@
+<!-- Backup of original index.html stored before temporary replacement.
+Original file version: commit 2ad216cb9ca9c9241e79cb60a0ce2346e1eb48b4
+Original file URL: https://github.com/beastygt/puppypacks/blob/2ad216cb9ca9c9241e79cb60a0ce2346e1eb48b4/index.html
+You can restore the original file from that URL or from the repository commit history. -->
+
+Backup: Original index reference
